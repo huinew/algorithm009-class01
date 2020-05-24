@@ -1,5 +1,6 @@
 算法学习笔记
-## 方法论
+## 方法论笔记
+https://www.jianshu.com/p/62d712dce7dc
 
 ## 算法训练笔记
 
